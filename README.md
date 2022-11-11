@@ -26,5 +26,5 @@ addpath(genpath('your_folder_name_here/CaTT-main/'))
 
 ## Runing the demo
 
-1. Download both dataset from this [OSF project](https://osf.ip/ye3rg/)
+1. Download both dataset from this [OSF project](https://osf.io/ye3rg/)
 2. Unzip and move the filders to `demos/Galvez-Pol`
